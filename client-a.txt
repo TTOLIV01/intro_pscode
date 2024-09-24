@@ -1,4 +1,22 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
+set guess=3 
+   set number=random number bewteen 1-10
+repeat(loop) for only three times until guess=3
+END IF 
+         OUTPUT: "YOU FAILED!" IF the player guessed three times
+          ELSE
+            guess>3 then 
+               OUTPUT: "TOO BIG! try again"
+                ELSE
+                  guess<3 then
+                    OUTPUT: "TOO SMALL! try again"
+                     END IF
+                      guess=3 then 
+                      OUTPUT: "YOU GUESSED CORRECT"
+ End loop
+                    
+
+
 # ------------------------------------------------- #
 
