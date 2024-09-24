@@ -1,4 +1,23 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
+Display users location 
+ OUTPUT: "Where would like to go?"
+ repeat (Loop) unti user reaches destination 
+set a marker on the point where user selects 
+IF 
+user selects "North"
+ OUTPUT: "Head North" 
+ IF 
+user selects "South" 
+ OUTPUT: Head South"
+ IF 
+user selects "West"
+OUTPUT: "Head West"
+IF 
+user selects "East"
+OUTPUT: "Head Easst"
+END loop 
+
+
 # ------------------------------------------------- #
 
