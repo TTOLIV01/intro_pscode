@@ -1,4 +1,18 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
+set packaged scaned=2
+END IF 
+ Case reaches to 50
+ start=2
+ stop=50
+Package=2 to 50 increment by 2
+END IF 
+ Package>50 
+ OUTPUT: "OVER THE LIMIT!"
+END IF 
+ Package<2
+ OUTPUT: UNDER THE LIMIT!"
+END loop
+
 # ------------------------------------------------- #
 
